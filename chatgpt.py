@@ -1,6 +1,6 @@
 
 #-----------CREDITS -----------
-# telegram : @itz_legend_coder
+# telegram : @ItzCodeR_XD7
 # github : noob-mukesh
 from pyrogram import Client, filters,enums,idle
 from pyrogram.errors import ApiIdInvalid, ApiIdPublishedFlood, AccessTokenInvalid
@@ -16,7 +16,7 @@ from random import choice
 from datetime import datetime
 import logging
 
-FORMAT = "[LEGEND-MUKESH] %(message)s"
+FORMAT = "[LEGEND-RONNY] %(message)s"
 logging.basicConfig(
     level=logging.WARNING, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 )
@@ -95,7 +95,7 @@ PNG_BTN = [
      ],
 ]
 SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('sᴏᴜʀᴄᴇ', url=f"{SOURCE}")]])
-HELP_READ = "➻ ᴜsᴇ /chatgpt write a simple flask app in python.  \n\n **➻ ᴜsᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @mr_sukkun**"
+HELP_READ = "➻ ᴜsᴇ /chatgpt write a simple flask app in python.  \n\n **➻ ᴜsᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @Bots_Hub_ll**"
 HELP_BACK = [
      [
            InlineKeyboardButton(text="Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ", url=f"https://t.me/{UPDATE_CHNL}/528"),
@@ -163,7 +163,7 @@ async def ping(client, message: Message):
         ms = (end-start).microseconds / 1000
         await message.reply_photo(
                              photo=START_IMG,
-                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [ᴍᴜᴋᴇsʜ](https://t.me/itz_legend_coder)||",
+                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [ᴍᴜᴋᴇsʜ](https://t.me/ItzCodeR_XD7)||",
                              reply_markup=InlineKeyboardMarkup(PNG_BTN),
        )
 
@@ -239,10 +239,10 @@ if SOURCE != s:
     print("So sad, you have changed source, change it back to ` https://github.com/Noob-mukesh/Chatgpt-bot `  else I won't work")
     sys.exit(1)  
 if DEVELOPER!=u:
-    print("So sad, you have changed Updates, change it back to `ITz_LEGEND_CODER ` else I won't work")
+    print("So sad, you have changed Updates, change it back to `ItzCodeR_XD7 ` else I won't work")
     sys.exit(1)
 if UPDATE_CHNL!=d:
-    print("So sad, you have change developer, change it back to `MR_SUKKUN ` else I won't work")
+    print("So sad, you have change developer, change it back to `Bots_Hub_ll` else I won't work")
     sys.exit(1)
 
 
@@ -257,7 +257,7 @@ if __name__ == "__main__":
         raise Exception("Your API_ID/API_HASH is not valid.")
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
-    print(f"""JOIN  @MR_SUKKUN
+    print(f"""JOIN  @ItzCodeR_XD7
 GIVE STAR TO THE REPO 
  {BOT_NAME} ɪs ᴀʟɪᴠᴇ!  
     """)
@@ -265,5 +265,5 @@ GIVE STAR TO THE REPO
     Mukesh.stop()
     print("Bot stopped. Bye !")
 #-----------CREDITS -----------
-# telegram : @itz_legend_coder
-# github : noob-mukesh
+# telegram : @ItzCodeR_XD7
+# github : RONNY-NOOB
