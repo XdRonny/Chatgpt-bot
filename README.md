@@ -107,16 +107,16 @@
 
 ### sᴜᴘᴘᴏʀᴛ 
 
-<p align="center"><a href="https://t.me/the_support_chat"> <img src="https://img.shields.io/badge/SUPPORT-black?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/Daisy_Support_chat"> <img src="https://img.shields.io/badge/SUPPORT-black?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://t.me/mr_sukkun"> <img src="https://img.shields.io/badge/ᴍᴜᴋᴇsʜ%20ʙᴏᴛ ᴢᴏɴᴇ-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/Bots_Hub_ll"> <img src="https://img.shields.io/badge/ᴍᴜᴋᴇsʜ%20ʙᴏᴛ ᴢᴏɴᴇ-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
 
 
 ### ᴄʀᴇᴅɪᴛs 
 # 
-<b> [─╼⃝𖠁 ᴍᴜᴋᴇsʜ 𖠁⃝╾─•](https://telegram.me/itz_LEGEND_CODER) <br> <br>
- [­ 𝔼𝕣𝕖𝕟](https://telegram.me/WH0907)  </br> <br>
- [ [🇮🇳]◊⃟_ѕнιиιиg〆ѕταʀـϟ ⃝⃟🥀 ⃝࿐](https://telegram.me/NotLobe)<br>
+<b> [─╼⃝𖠁 ᴍᴜᴋᴇsʜ 𖠁⃝╾─•](https://telegram.me/ItzCodeR_XD7) <br> <br>
+ [­ 𝔼𝕣𝕖𝕟](https://telegram.me/ItzCodeR_XD7)  </br> <br>
+ [ [🇮🇳]◊⃟_ѕнιиιиg〆ѕταʀـϟ ⃝⃟🥀 ⃝࿐](https://telegram.me/ItzCodeR_XD7)<br>
 <details>
 <summary><i>ᴀ ᴍᴇssᴀɢᴇ ғᴏʀ ʏᴏᴜ!</i></summary>
 <p><i> ᴅᴏɴ'ᴛ  ғᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴛʜᴇ 🌠</i></p>
