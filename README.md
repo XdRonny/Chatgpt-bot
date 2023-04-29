@@ -92,7 +92,7 @@
 
  <h4>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴜᴋᴏ🚀</h4>
 <pre><i>ᴇɴᴛᴇʀ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴠᴀʀs ɪɴ ᴛʜᴇ ʜᴇʀᴜᴋᴏ.</i></pre>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Noob-mukesh/chatgpt-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://telegra.ph/file/2c6994240813801264c4e.jpg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <i>sᴀᴍᴘʟᴇ ʙᴏᴛ ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ, ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴀᴋ ᴛʜᴀᴛ.</i>
@@ -101,7 +101,7 @@
 <details>
 <summary>sᴀᴍᴘʟᴇ ʙᴏᴛ✨</summary>
 <i> ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ʟɪᴋᴇ ᴅɪғғᴇʀᴇɴᴛ sᴛᴀʀᴛ ɪᴍᴀɢᴇs ᴀɴᴅ ᴅɪғғᴇʀᴇɴᴛ sᴛɪᴄᴋᴇʀs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴢᴅᴛ ᴄʜᴇᴀᴋ ᴛʜᴇ ᴠᴀʀs ᴀɴᴅ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ.</i>
-<p align="center"><a href="https://t.me/CHATGPTAI_TG_BOT"> <img src="https://img.shields.io/badge/Sample%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/ChatsGpt7_bot"> <img src="https://img.shields.io/badge/Sample%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 </details>
 
 
